@@ -1,0 +1,6 @@
+47966922T;Alfonso Fernández García;Psicología;2024-04-29; 12:30;true
+47166912T;Marta Fernández Fernández; Psicología;2024-04-29 ;13:00;false
+17165912O;Pedro Collado Puente; Fisioterapia;2024-04-30 ;11:00;false
+37165912P;Laura Quintero García; Psicología;2024-04-29 ;13:30;true
+17165912O;Pedro Collado Puente; Fisioterapia;2024-04-29 ;11:00;false
+37165912P;Laura Quintero García; Psicología;2024-04-25 ;13:30;false

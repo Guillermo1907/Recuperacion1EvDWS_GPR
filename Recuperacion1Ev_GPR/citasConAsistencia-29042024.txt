@@ -1,0 +1,1 @@
+Consulta [dni=17165912O, nombrePaciente=Pedro Collado Puente, especialidad=Fisioterapia, fecha=2024-04-29, hora=11:00, asistido=false]
